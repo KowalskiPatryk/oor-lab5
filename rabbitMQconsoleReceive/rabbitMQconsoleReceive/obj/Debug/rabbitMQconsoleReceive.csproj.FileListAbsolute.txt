@@ -1,0 +1,8 @@
+C:\wamp\www\sel\rabbitMQconsoleReceive\rabbitMQconsoleReceive\bin\Debug\rabbitMQconsoleReceive.exe.config
+C:\wamp\www\sel\rabbitMQconsoleReceive\rabbitMQconsoleReceive\bin\Debug\rabbitMQconsoleReceive.exe
+C:\wamp\www\sel\rabbitMQconsoleReceive\rabbitMQconsoleReceive\bin\Debug\rabbitMQconsoleReceive.pdb
+C:\wamp\www\sel\rabbitMQconsoleReceive\rabbitMQconsoleReceive\bin\Debug\RabbitMQ.Client.dll
+C:\wamp\www\sel\rabbitMQconsoleReceive\rabbitMQconsoleReceive\bin\Debug\RabbitMQ.Client.xml
+C:\wamp\www\sel\rabbitMQconsoleReceive\rabbitMQconsoleReceive\obj\Debug\rabbitMQconsoleReceive.csprojResolveAssemblyReference.cache
+C:\wamp\www\sel\rabbitMQconsoleReceive\rabbitMQconsoleReceive\obj\Debug\rabbitMQconsoleReceive.exe
+C:\wamp\www\sel\rabbitMQconsoleReceive\rabbitMQconsoleReceive\obj\Debug\rabbitMQconsoleReceive.pdb
